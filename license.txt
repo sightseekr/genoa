@@ -1,0 +1,59 @@
+Sightseekr — Public Map Viewing License (Code Prohibited)
+Copyright © 2025 Sightseekr
+All Rights Reserved.
+
+Overview
+Sightseekr is the owner and licensor of the content in this repository. 
+
+Sightseekr has created and hosts certain interactive maps which Sightseekr may make available to the public via third-party distribution channels (for example, via links, QR codes, or social media distributed by a local council or other authorised distributor) (“Rendered Map”). 
+
+Sightseekr retains all rights in the underlying source code, data, assets, and tooling used to create, render, or serve the Rendered Map (“Source Code and Assets”).
+
+1. Permitted Public Use of Rendered Map (Personal, Non-Commercial Only)
+  1.1 Members of the public may **view and use the Rendered Map** (for example, by following a link or scanning a QR code provided by an authorised distributor such as a council) for **personal, non-commercial, non-research** purposes (e.g., navigating, sightseeing, personal trip planning).
+  1.2 This limited permission applies **only** to the Rendered Map as presented via the authorized link or distribution channel, and **does not** extend to any Source Code and Assets, underlying data feeds, APIs, exported files, or developer tools.
+
+2. Strict Prohibition on Source Code and Assets
+  2.1 Under **no circumstances** are any third parties permitted to copy, clone, fork, download, modify, reverse engineer, decompile, extract, adapt, reuse, or redistribute any Source Code and Assets contained in this repository.
+  2.2 The Source Code and Assets remain proprietary to Sightseekr. Accessing, cloning, or attempting to use this repository’s Source Code and Assets for any purpose (personal, educational, research, or commercial) is expressly forbidden without a separate, written licence from Sightseekr.
+
+3. Prohibited Activities (Public and Developers)
+  3.1 Unless you hold a separate written licence from Sightseekr, you may not:
+    a) Copy, mirror, scrape, harvest, or archive any Source Code and Assets;  
+    b) Use any content for AI training, machine learning, embeddings, or dataset creation;  
+    c) Create derivative works, packages, or products that incorporate Source Code and Assets;  
+    d) Host, distribute, or publicly display any part of the Source Code and Assets;  
+    e) Attempt to access server-side code, private endpoints, or backend data feeds supporting the Rendered Map.
+
+4. AI, Scraping, and Data Protection
+  4.1 Use of any Source Code and Assets (or extracts thereof) for AI training, fine-tuning, embeddings, tokenization, automated ingestion, or any machine learning purpose is strictly prohibited.
+  4.2 Automated scraping, crawling, or bulk downloading of content that exposes or extracts Source Code and Assets is prohibited.
+
+5. Monitoring, Audit, and Compliance
+  5.1 Sightseekr reserves the right to log, monitor, fingerprint, and otherwise track access to the Rendered Map and repository in order to detect unauthorized access or copying of Source Code and Assets (including IP addresses, device identifiers, and browser metadata).
+  5.2 If unauthorized use is suspected, you must cooperate with any compliance or audit request and provide any information reasonably required to demonstrate lawful use or deletion of infringing content.
+
+6. Retroactive Liability
+  6.1 Use of Source Code and Assets prior to detection of a breach does **not** confer any rights. Retroactive liability applies: any unauthorised use remains an infringement and may be subject to enforcement and damages.
+
+7. Enforcement & Remedies
+  7.1 Unauthorized use of Source Code and Assets may result in civil and/or criminal enforcement. Sightseekr reserves the right to pursue all available remedies including, but not limited to:
+    a) injunctive relief;  
+    b) monetary damages (including statutory and compensatory damages);  
+    c) recovery of legal and investigative costs; and  
+    d) permanent revocation of access or licences.
+  7.2 Sightseekr sets a minimum contractual damages amount of **£50,000 (fifty thousand pounds)** per incident or breach as a genuine pre-estimate and deterrent against commercial exploitation. Sightseekr reserves the right to seek greater damages where appropriate.
+
+8. No Warranty
+  8.1 All Rendered Map content and Source Code and Assets are provided **“as is”** without warranty of any kind. Sightseekr disclaims all implied warranties including merchantability, fitness for purpose, and non-infringement.
+
+9. Governing Law & Jurisdiction
+  9.1 This License is governed by the laws of **England and Wales**.  
+  9.2 Any dispute arising under or in connection with this License shall be subject to the exclusive jurisdiction of the courts of England and Wales.
+
+10. Contact & Permissions
+  10.1 For permissions, licensing inquiries, or authorised council/partner distribution arrangements, contact: hello.sightseekr@gmail.com  
+  10.2 For information about purchasing developer or distribution licences, see: https://www.sightseekr.co.uk
+
+By accessing or using this repository or following any Rendered Map link, you acknowledge that you have read, understood, and agree to be bound by the terms of this License.
+
